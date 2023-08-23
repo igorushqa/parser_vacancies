@@ -1,0 +1,2 @@
+class JSONSaver:
+    pass
